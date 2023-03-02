@@ -34,7 +34,7 @@ CACHES = {
         },
     }
 }
-
+INSTALLED_APPS += ["django_extensions"]
 # SECURITY
 # ------------------------------------------------------------------------------
 # https://docs.djangoproject.com/en/dev/ref/settings/#secure-proxy-ssl-header
