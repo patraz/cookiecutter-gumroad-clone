@@ -16,5 +16,4 @@ django-anymail[mailjet]==9.0  # https://github.com/anymail/django-anymail
 
 django-tailwind
 crispy-tailwind
-gunicorn
 whitenoise
